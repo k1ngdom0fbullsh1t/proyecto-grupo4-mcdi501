@@ -20,3 +20,6 @@ Thumbs.db
 # Variables de entorno y secretos
 .env
 *.key
+
+# Scripts auxiliares de generación de notebooks (uso personal)
+gen_*.py
