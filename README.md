@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 | Fase | Descripción | Estado |
 |------|-------------|--------|
-| F1 | Definición y orientación | En progreso |
-| F2 | Búsqueda y recopilación de información | Pendiente |
-| F3 | Desarrollo del proyecto | Pendiente |
+| F1 | Definición y orientación | Finalizado |
+| F2 | Búsqueda y recopilación de información | Finalizado |
+| F3 | Desarrollo del proyecto | En curso |
 | F4 | Presentación y comunicación | Pendiente |
